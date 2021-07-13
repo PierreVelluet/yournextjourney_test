@@ -65,7 +65,7 @@ const SignupSection = () => {
                     <GridContainer justify="center">
                         <GridItem xs={12} sm={10} md={10}>
                             <Card className={classes.cardSignup}>
-                                <h2 className={classes.cardTitle}>Registerr</h2>
+                                <h2 className={classes.cardTitle}>Register / signUp</h2>
                                 <CardBody>
                                     <GridContainer justify="center">
                                         <GridItem xs={12} sm={5} md={5}>
@@ -259,7 +259,6 @@ const SignupSection = () => {
                         </div>
                     }
                 />
-            {/* </div> */}
         </div>
     );
 }
