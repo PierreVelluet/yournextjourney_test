@@ -16,7 +16,6 @@ import Email from "@material-ui/icons/Email";
 import Check from "@material-ui/icons/Check";
 import Favorite from "@material-ui/icons/Favorite";
 // core components
-import Header from "components/Header/Header.js";
 import Footer from "components/Footer/Footer.js";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
@@ -27,8 +26,6 @@ import InfoArea from "components/InfoArea/InfoArea.js";
 import CustomInput from "components/CustomInput/CustomInput.js";
 
 import signupPageStyle from "assets/jss/material-kit-pro-react/views/signupPageStyle.js";
-
-import image from "assets/img/bg7.jpg";
 
 const useStyles = makeStyles(signupPageStyle);
 
